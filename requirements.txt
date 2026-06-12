@@ -1,0 +1,31 @@
+# ── Core backend (all free & open-source) ─────────────────────────────────────
+fastapi
+uvicorn[standard]
+python-multipart
+PyPDF2
+sentence-transformers
+faiss-cpu
+pydantic
+python-dotenv
+numpy
+requests
+
+# ── Optional free LLM providers (install the one you want to use) ──────────────
+
+# Option A: Groq (free tier, no credit card)
+#   pip install groq
+#   Get key: https://console.groq.com
+groq
+
+# Option B: Google Gemini (free tier)
+#   pip install google-generativeai
+#   Get key: https://aistudio.google.com/app/apikey
+google-generativeai
+
+# Option C: Ollama (100% local, no API key)
+#   Install Ollama: https://ollama.com
+#   Then run: ollama pull llama3.2
+#   No pip package needed — communicates via HTTP on localhost:11434
+
+# ── REMOVED ───────────────────────────────────────────────────────────────────
+# anthropic  ← no longer used. Claude API has been replaced entirely.

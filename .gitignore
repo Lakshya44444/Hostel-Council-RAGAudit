@@ -1,0 +1,11 @@
+# Credentials
+.env
+secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual envs
+.venv/
+venv/

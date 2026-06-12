@@ -1,0 +1,204 @@
+EMPLOYEE LEAVE POLICY 2024
+TechCorp International — Human Resources Department
+Document Version: 3.1 | Effective Date: January 1, 2024
+
+================================================================================
+PAGE 1: ANNUAL LEAVE & SICK LEAVE
+================================================================================
+
+1. ANNUAL LEAVE ENTITLEMENT
+----------------------------------------------------------------------
+All permanent full-time employees are entitled to 25 days of paid annual
+leave per calendar year. This entitlement increases progressively based on
+years of service:
+
+  - 0–2 years of service:   25 days per year
+  - 3–5 years of service:   27 days per year
+  - 6–10 years of service:  30 days per year
+  - 10+ years of service:   33 days per year
+
+Part-time employees receive a pro-rated annual leave entitlement based on
+their contracted hours relative to a full-time equivalent (FTE). Leave
+accrues at a rate of 2.08 days per month for full-time employees.
+
+New joiners who start employment after January 1 will receive a prorated
+leave allocation based on the number of full months remaining in the
+calendar year.
+
+2. ANNUAL LEAVE APPLICATION PROCESS
+----------------------------------------------------------------------
+Employees must apply for annual leave at least TWO (2) WEEKS in advance
+for leave of 3 or more consecutive days. For single-day or two-day leave,
+a minimum of 48 hours' notice is required.
+
+All leave requests must be submitted via the HR Self-Service Portal at
+https://hr.techcorp.internal/leave. The following steps outline the process:
+
+  Step 1: Log in to the HR Portal using your employee credentials.
+  Step 2: Navigate to "My Leave" → "Request New Leave".
+  Step 3: Select leave type "Annual Leave" from the dropdown menu.
+  Step 4: Enter the start date, end date, and any coverage arrangements.
+  Step 5: Provide a brief reason (optional for annual leave).
+  Step 6: Click "Submit Request" — your direct manager will receive an
+          automated email notification for approval.
+  Step 7: You will receive an email confirmation once your manager
+          approves or rejects the request (typically within 2 business days).
+
+Emergency leave exceptions (e.g., bereavement, sudden illness) may be
+communicated verbally first and formalized in the HR Portal within 3
+business days of return.
+
+3. SICK LEAVE
+----------------------------------------------------------------------
+Employees are entitled to 10 days of paid sick leave per calendar year.
+Sick leave does not accrue or carry over to the following year.
+
+  - For absences of 1–3 consecutive days: Self-certification is acceptable.
+    Employees must notify their line manager by 9:00 AM on the first day
+    of absence via phone or the HR Portal messaging system.
+
+  - For absences exceeding 3 consecutive days: A valid medical certificate
+    signed by a registered physician is MANDATORY. The certificate must be
+    submitted to HR within 5 business days of return.
+
+  - Chronic illness management: Employees with recurring medical conditions
+    should contact HR Wellbeing Services to arrange a confidential meeting
+    and explore reasonable workplace accommodations.
+
+Unauthorized absence (absence not reported or not supported by valid
+documentation) may result in unpaid deduction and disciplinary action
+under the company's Conduct Policy.
+
+================================================================================
+PAGE 2: PARENTAL LEAVE & CARRY-OVER RULES
+================================================================================
+
+4. MATERNITY LEAVE
+----------------------------------------------------------------------
+Eligible employees who are primary caregivers following the birth or
+adoption of a child are entitled to 26 weeks (182 days) of maternity leave,
+structured as follows:
+
+  - Weeks 1–16 (Compulsory Period): Paid at 100% of base salary.
+  - Weeks 17–26 (Optional Extended Period): Paid at 50% of base salary.
+
+To qualify, employees must have completed a minimum of 12 months of
+continuous service with TechCorp before the expected due date. Employees
+must inform HR at least 12 weeks before the expected start of maternity
+leave by submitting a "Maternity Leave Notification Form" available on the
+HR Portal. A copy of the medical certificate confirming expected due date
+is required.
+
+Employees on maternity leave continue to accrue annual leave during
+the compulsory paid period (Weeks 1–16). Pension contributions continue
+at the normal rate during the fully-paid period.
+
+5. PATERNITY LEAVE
+----------------------------------------------------------------------
+Secondary caregivers (typically fathers or non-birthing partners) are
+entitled to 4 weeks (28 days) of fully paid paternity leave. This leave
+must be taken within 56 days of the child's birth or placement.
+
+Paternity leave notification must be given at least 6 weeks in advance via
+the HR Portal. Employees must provide the expected due date or adoption
+placement date at the time of application.
+
+In cases of multiple births (twins, triplets, etc.) or adoption, paternity
+leave entitlement remains 4 weeks but can be split into two separate periods
+within the 56-day window.
+
+6. SHARED PARENTAL LEAVE
+----------------------------------------------------------------------
+Parents may choose to share up to 37 weeks of paid leave between both
+partners after the compulsory 2-week maternity period. Shared parental
+leave can be taken in blocks and must be agreed upon with HR at least
+8 weeks in advance. Both parents must be employed at TechCorp to
+utilize shared parental leave simultaneously.
+
+7. CARRY-OVER RULES
+----------------------------------------------------------------------
+Employees are permitted to carry over a MAXIMUM of 5 days of unused annual
+leave into the following calendar year. Carry-over days must be used by
+March 31 of the subsequent year or they will be forfeited without
+compensation.
+
+Exceptions to the 5-day carry-over limit may be granted in the following
+circumstances:
+  - Long-term sick leave: Employees who could not take leave due to medical
+    absence may carry over their full unused entitlement.
+  - Operational requirements: Where the company has required an employee to
+    postpone approved leave due to urgent business needs. This exception
+    requires written confirmation from the HR Director.
+
+Any carry-over days granted under exception must be taken within 18 months
+of the original leave year end.
+
+================================================================================
+PAGE 3: PUBLIC HOLIDAYS & ADDITIONAL PROVISIONS
+================================================================================
+
+8. PUBLIC HOLIDAYS
+----------------------------------------------------------------------
+TechCorp observes 12 statutory public holidays per calendar year. Employees
+are entitled to a paid day off on each of these days. If a public holiday
+falls on a weekend, the next available working day is observed as the
+substitute bank holiday.
+
+2024 Public Holidays (England & Wales):
+  1.  January 1        — New Year's Day
+  2.  March 29         — Good Friday
+  3.  April 1          — Easter Monday
+  4.  May 6            — Early May Bank Holiday
+  5.  May 27           — Spring Bank Holiday
+  6.  August 26        — Summer Bank Holiday
+  7.  October 31       — Company Foundation Day (TechCorp exclusive)
+  8.  December 25      — Christmas Day
+  9.  December 26      — Boxing Day
+  10. December 27      — Christmas Substitute Day
+  11. December 30      — New Year's Eve Observed
+  12. December 31      — Year-End Closure Day
+
+Employees required to work on a public holiday due to business-critical
+operations will receive time-off-in-lieu (TOIL) at a 1.5x rate, to be
+taken within 90 days.
+
+9. LEAVE WITHOUT PAY (LWOP)
+----------------------------------------------------------------------
+Employees who have exhausted their annual leave entitlement may apply for
+Leave Without Pay for personal reasons. LWOP is granted entirely at the
+discretion of the employee's department head and the HR Director. Maximum
+LWOP duration in a calendar year is 10 days. LWOP does not affect
+continuity of service but pension contributions are paused during this period.
+
+10. BEREAVEMENT LEAVE
+----------------------------------------------------------------------
+Employees are granted 5 days of paid bereavement leave for the death of an
+immediate family member (spouse, child, parent, sibling). Two days of paid
+leave are provided for extended family (grandparent, in-laws, aunt, uncle).
+Bereavement leave is separate from annual leave and does not affect the
+annual leave balance.
+
+11. STUDY LEAVE
+----------------------------------------------------------------------
+Full-time employees enrolled in company-approved training or professional
+certification programs may apply for up to 10 days of paid study leave per
+year. Study leave applications must be submitted with proof of enrollment
+and the examination/coursework schedule at least 4 weeks in advance.
+
+12. POLICY REVIEW & CONTACT
+----------------------------------------------------------------------
+This Leave Policy is reviewed annually. The next review date is
+December 2024. For any questions, contact the HR Department:
+
+  Email: hr@techcorp.internal
+  Phone: +44 20 7946 0958
+  HR Portal: https://hr.techcorp.internal
+  Office Hours: Monday–Friday, 9:00 AM – 5:30 PM
+
+TechCorp International is an equal opportunities employer and all leave
+policies are applied consistently regardless of gender, age, disability,
+ethnicity, or any other protected characteristic.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

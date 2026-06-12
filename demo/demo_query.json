@@ -1,0 +1,26 @@
+{
+  "query": "How many days of annual leave do employees get and what is the process to apply for leave?",
+  "retrieved_chunks": [
+    {
+      "chunk_id": "kb_c0",
+      "text": "Employees are entitled to 25 days of paid annual leave per calendar year. This entitlement increases progressively based on years of service: 0–2 years of service: 25 days per year. Leave accrues at a rate of 2.08 days per month for full-time employees.",
+      "rank": 1,
+      "similarity_score": 0.91,
+      "doc_id": "knowledge_base.txt"
+    },
+    {
+      "chunk_id": "kb_c5",
+      "text": "The company offers competitive benefits including health insurance, dental coverage, and pension contributions matched up to 6% of salary. Employees are encouraged to review their benefits package annually during the open enrollment period.",
+      "rank": 2,
+      "similarity_score": 0.45,
+      "doc_id": "knowledge_base.txt"
+    },
+    {
+      "chunk_id": "kb_c8",
+      "text": "Performance reviews are conducted annually in December. Employees should prepare self-assessments using the Performance Review Template available on the HR Portal. Ratings are: Exceptional, Exceeds Expectations, Meets Expectations, and Needs Improvement.",
+      "rank": 3,
+      "similarity_score": 0.38,
+      "doc_id": "knowledge_base.txt"
+    }
+  ]
+}
